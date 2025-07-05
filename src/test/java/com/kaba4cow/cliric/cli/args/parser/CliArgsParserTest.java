@@ -11,8 +11,8 @@ import org.junit.jupiter.api.Test;
 import com.kaba4cow.cliric.args.cli.CliArg;
 import com.kaba4cow.cliric.args.cli.CliArgs;
 import com.kaba4cow.cliric.args.cli.parser.CliArgsParser;
-import com.kaba4cow.cliric.args.cli.parser.CliArgsParserException;
 import com.kaba4cow.cliric.args.cli.parser.DefaultCliArgsParser;
+import com.kaba4cow.cliric.error.CliArgsParserException;
 
 public class CliArgsParserTest {
 

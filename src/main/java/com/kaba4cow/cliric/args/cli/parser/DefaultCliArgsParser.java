@@ -5,6 +5,7 @@ import java.util.List;
 
 import com.kaba4cow.cliric.args.cli.CliArg;
 import com.kaba4cow.cliric.args.cli.CliArgs;
+import com.kaba4cow.cliric.error.CliArgsParserException;
 
 public class DefaultCliArgsParser implements CliArgsParser {
 
